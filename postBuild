@@ -1,0 +1,3 @@
+#!/bin/bash
+wget -q -O chembl_24.h5 "ftp://ftp.ebi.ac.uk/pub/databases/chembl/fpsim2/chembl_24.h5"
+wget -q -O chembl_24_substructure.h5 "ftp://ftp.ebi.ac.uk/pub/databases/chembl/fpsim2/chembl_24_substructure.h5"

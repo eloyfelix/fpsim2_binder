@@ -1,0 +1,7 @@
+name: fpsim2_env
+channels:
+  - conda-forge
+  - eloyfelix
+dependencies:
+  - rdkit
+  - fpsim2
