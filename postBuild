@@ -1,0 +1,1 @@
+wget -q -O chembl_24.h5 "http://ftp.ebi.ac.uk/pub/databases/chembl/fpsim2/chembl_24.h5"
