@@ -1,7 +1,7 @@
 name: fpsim2_env
 channels:
   - efelix
-  - conda-forge
-dependencies:
   - rdkit
-  - fpsim2
+dependencies:
+  - rdkit>=2018.09
+  - fpsim2>=0.0.4
