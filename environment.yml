@@ -4,4 +4,4 @@ channels:
   - conda-forge
 dependencies:
   - rdkit>=2018.09
-  - fpsim2==0.2.1
+  - fpsim2==0.2.3
