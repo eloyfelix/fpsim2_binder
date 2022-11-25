@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -q -O chembl_25.h5 "http://ftp.ebi.ac.uk/pub/databases/chembl/fpsim2/chembl_25.h5"
+wget -q -O chembl_31.h5 "http://ftp.ebi.ac.uk/pub/databases/chembl/fpsim2/chembl_31.h5"
